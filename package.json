@@ -1,6 +1,6 @@
 {
 	"name": "serverless-alb-patch",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "fixes multip alb event serverless configurations",
 	"main": "index.js",
 	"repository": {
