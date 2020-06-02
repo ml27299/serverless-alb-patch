@@ -1,0 +1,25 @@
+{
+	"name": "serverless-alb-patch",
+	"version": "1.0.0",
+	"description": "fixes multip alb event serverless configurations",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ml27299/serverless-alb-patch"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"engines": {
+		"node": ">=8.0.0"
+	},
+	"keywords": [
+		"serverless",
+		"alb"
+	],
+	"author": "Mac Lara",
+	"license": "MIT",
+	"devDependencies": {
+		"crypto": "^1.0.1"
+	}
+}
