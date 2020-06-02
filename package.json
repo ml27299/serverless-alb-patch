@@ -19,7 +19,7 @@
 	],
 	"author": "Mac Lara",
 	"license": "MIT",
-	"devDependencies": {
+	"dependencies": {
 		"crypto": "^1.0.1"
 	}
 }
